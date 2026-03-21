@@ -20,4 +20,4 @@ The system analyzes visual features of coffee cherries to classify their quality
 This project is part of a patent-related work. Full implementation details are not publicly available.
 
 ## Status
-In progress
+Under development
