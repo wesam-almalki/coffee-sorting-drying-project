@@ -1,6 +1,6 @@
 #  Coffee Sorting AI System
 
->  Patent granted
+>  Patent granted --
 >  Award-winning AI project transforming real-world coffee processing into an intelligent automated system. 
 
 ---
